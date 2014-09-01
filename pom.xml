@@ -11,7 +11,7 @@
             <version>2.10</version>
             <configuration>
               <includes>              
-                  <include>testlink/tc1.java</include>
+                  <include>testlink/testTestLink.java</include>
                 </includes>
             
             </configuration>
