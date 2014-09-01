@@ -20,6 +20,6 @@ public class testTestLink {
 	
 	@Test
 	public void tc3(){
-		Assert.assertEquals(true, true);
+		Assert.assertEquals(true, false);
 	}
 }
