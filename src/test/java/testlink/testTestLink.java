@@ -10,4 +10,16 @@ public class testTestLink {
 	public void tc1(){
 		Assert.assertEquals(true, true);
 	}
+	
+	
+	@Test
+	public void tc2(){
+		Assert.assertEquals(true, true);
+	}
+	
+	
+	@Test
+	public void tc3(){
+		Assert.assertEquals(true, true);
+	}
 }
