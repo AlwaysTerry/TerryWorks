@@ -4,10 +4,10 @@ import org.testng.annotations.Test;
 
 import junit.framework.Assert;
 
-public class tc1 {
+public class testTestLink {
 
 	@Test
-	public void test1(){
+	public void tc1(){
 		Assert.assertEquals(true, true);
 	}
 }
